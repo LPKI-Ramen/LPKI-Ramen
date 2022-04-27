@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+🚧 **Мои задачи на ближайшее время:**
+<!-- TODO-IST:START -->
+* [ ] Изучить git
+* [ ] Изучить ansible      
+<!-- TODO-IST:END -->
+
+
 <!--
 **LPKI-Ramen/LPKI-Ramen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
